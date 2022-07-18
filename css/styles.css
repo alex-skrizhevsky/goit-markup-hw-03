@@ -330,6 +330,7 @@ padding: 94px 0;
 }
 
 .footer-logo {
+  display: block;
   margin-bottom: 20px;
 }
 .footer-address {
@@ -362,7 +363,7 @@ padding: 94px 0;
 }
 .portf-btn-list {
   display: flex;
-  margin-bottom: 34px;
+  margin-bottom: 50px;
   justify-content: center;
   gap: 8px;
 }
@@ -387,7 +388,7 @@ border-radius: 4px;
 }
 
 .product-info {
-  margin: 20px 24px;
+  padding: 20px 24px;
   border-right: 1px solid #eeeeee;
   border-bottom: 1px solid #eeeeee;
   border-left: 1px solid #eeeeee;
